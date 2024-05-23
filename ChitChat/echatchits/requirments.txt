@@ -1,0 +1,11 @@
+asgiref==3.8.0
+Django==5.0.3
+django-ckeditor==6.7.1
+django-js-asset==2.2.0
+djangorestframework==3.15.1
+pillow==10.2.0
+PyMySQL==1.1.0
+repoze.lru==0.7
+six==1.16.0
+sqlparse==0.4.4
+tzdata==2024.1
